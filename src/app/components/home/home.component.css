@@ -1,0 +1,43 @@
+.card-img-top {
+    width: 280px;
+    height: 350px;
+    background-color: black;
+  }
+
+  img{
+    height: 390px;
+    width: 297px;
+    border-radius: 8%;
+    padding-top: 5px;
+  }
+
+  p{
+    text-align: center;
+    text-decoration: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+  }
+
+  h5{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: #03045e;
+  }
+
+  h1{
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    padding-bottom: 2%;
+  }
+
+  button{
+    padding-top: 5px;
+    margin-top: 2px;
+    background-color: #1d3557;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
+

@@ -1,0 +1,39 @@
+
+h2{
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: white;
+    padding-bottom: 15px;
+}
+
+h3{
+    text-align: center;
+    padding-top: 10px;
+}
+
+card-body{
+    width: 280px;
+    height: 350px;
+}
+
+p, h5{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+img{
+    width: 300px;
+    height:470px;
+    display:block;
+    margin:auto;
+    border-radius: 10%;
+    border-color: blueviolet;
+    border-style: groove;
+}
+
+div{
+    left: 210px;
+}

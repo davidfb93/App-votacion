@@ -1,0 +1,20 @@
+<h2>Resumen de la votación</h2>
+    <div class="row">
+        <div class="col-lg-4 d-flex aling-items-strech" *ngFor="let vengador of vengadorOrganizado; let i = index">
+            <div class="card">
+                <h2 *ngIf="i==0"> <small>Más likes (likes)</small></h2>
+                <h2 *ngIf="i==1"> <small>Más dislikes (disLikes)</small></h2>
+                <img class="card-img-top" [src]="vengador.imagen" [alt]="vengador.alias">
+                <div class="card-body">
+                    <h5 class="card-title">{{vengador.nombre}}</h5>
+                    <p class="card-text">{{vengador.alias}}</p>
+                    <p class="card-text">{{vengador.especie}}</p>
+                    <p class="card-text">{{vengador.nacionalidad}}</p>
+                    <p class="card-text">{{vengador.fecha_nacimiento}}</p>
+                    <p class="card-text"><small class="text-muted">{{vengador.frase}}</small></p>
+                    <h3 class="card-text"><small class="text-muted">likes: {{vengador.me_gusta}}</small></h3>
+                    <h3 class="card-text"><small class="text-muted">disLikes: {{vengador.no_me_gusta}}</small></h3>
+                </div>
+            </div>
+        </div>
+    </div>

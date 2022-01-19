@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/75347229/150080897-5db9f025-4d0e-4a8a-b854-f27e47ca8dcd.png)
 
-![image](https://user-images.githubusercontent.com/75347229/150080948-ff95b048-7c16-44b6-aca4-c8348b58d7ed.png)
+![image](https://user-images.githubusercontent.com/75347229/150081046-c8e9c16c-9a11-4d2a-8b3a-e4a78f4591e1.png)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.

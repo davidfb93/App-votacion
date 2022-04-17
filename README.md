@@ -1,4 +1,6 @@
-## Taller_1_Angular
+## App de votacion
+
+Esta app consiste en seleccionar dos vengadores, uno con mayor numero de likes y uno con mayor numero de dislikes.
 
 ![image](https://user-images.githubusercontent.com/75347229/150080897-5db9f025-4d0e-4a8a-b854-f27e47ca8dcd.png)
 
